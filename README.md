@@ -11,8 +11,8 @@ An extremely simple, proof-of-concept HTTP/REST API for Discord's Clyde bot. Thi
 3. Create a `.env` file with the following contents:
 
 ```ini
-# An ACCOUNT token, not a bot token.
-DISCORD_TOKEN=your_discord_account_token
+# A Discord ACCOUNT token, not a bot token.
+TOKEN=your_discord_account_token
 # ID of a DEDICATED server with:
 # - Clyde enabled
 # - Administrator permissions

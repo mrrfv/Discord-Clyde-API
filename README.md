@@ -1,3 +1,11 @@
+# Archived
+
+> By December 1, 2023, users will no longer be able to invoke Clyde in DMs, Group DMs or server chats.
+
+[Discord Support Article](https://support.discord.com/hc/en-us/articles/13066317497239)
+
+---
+
 # Discord Clyde API
 
 An extremely simple, proof-of-concept HTTP/REST API for Discord's Clyde bot. This is not meant to be used in production at all - you may be rate-limited or banned from Discord for using this.
